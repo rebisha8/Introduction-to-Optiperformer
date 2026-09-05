@@ -35,9 +35,17 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
----
-## Result
+## Tabulation 
+
+<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/e9bd1920-54a5-48a0-aa56-1cc6f9a49dbd" />
+
+## Graph 
+
+<img width="1913" height="963" alt="image" src="https://github.com/user-attachments/assets/bb3a60e5-f84d-4a71-9eee-0ce06666416a" />
 
 ---
+## Result
+Thus the experimtent is completed successfully.
+
 
 
