@@ -1,4 +1,4 @@
-# Introduction-to-Optiperformer
++# Introduction-to-Optiperformer
 
 
 ## Aim
@@ -37,7 +37,8 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ## Tabulation 
 
-<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/e9bd1920-54a5-48a0-aa56-1cc6f9a49dbd" />
+<img width="1166" height="730" alt="image" src="https://github.com/user-attachments/assets/ecdf1674-0e28-498a-a5a8-646e4c6e6b5d" />
+
 
 ## Graph 
 
